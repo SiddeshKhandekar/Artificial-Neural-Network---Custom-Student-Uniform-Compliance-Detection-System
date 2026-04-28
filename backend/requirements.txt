@@ -1,0 +1,35 @@
+# ============================================================
+# Student Uniform Compliance Detection System
+# ANN Course Project — Requirements
+# ============================================================
+
+# --- Web Framework ---
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+
+# --- Image Processing ---
+opencv-python-headless
+opencv-contrib-python-headless
+Pillow
+numpy
+
+# --- Deep Learning (PyTorch) ---
+torch
+torchvision
+
+# --- Face Recognition ---
+# facenet-pytorch has numpy<2 pin — install with --no-deps then manually
+# pip install facenet-pytorch --no-deps
+# We vendor the needed parts instead (see below)
+
+# --- Object Detection ---
+ultralytics
+
+# --- OCR (Tesseract wrapper) ---
+pytesseract
+
+# --- Utilities ---
+scikit-learn
+scipy
