@@ -22,6 +22,5 @@ yarn-error.log*
 Thumbs.db
 
 # Project specific
-Results/
 files/
 scratch/
