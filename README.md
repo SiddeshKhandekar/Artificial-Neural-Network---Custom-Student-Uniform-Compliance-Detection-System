@@ -228,3 +228,11 @@ ANN/
 | STU003 | Rahul Verma | Computer Science |
 | STU004 | Sneha Gupta | Electronics |
 | STU005 | Vikram Singh | Mechanical Engineering |
+
+---
+
+## 📸 Screenshots
+
+<img width="1898" height="1078" alt="Screenshot 2026-04-27 195747" src="https://github.com/user-attachments/assets/94f14b04-94a4-4fe9-9fd7-97c795603eff" />
+
+<img width="1898" height="1078" alt="Screenshot 2026-04-27 195913" src="https://github.com/user-attachments/assets/9cfe05f5-5aeb-4eb4-bda6-1d18ca28ad8d" />
