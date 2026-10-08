@@ -4,6 +4,10 @@
 
 An AI-powered web application that analyzes images (upload or live webcam) to detect student uniform compliance, recognize faces, and log rule violations.
 
+## 🧩 System Architecture Diagram
+
+<img width="10222" height="11400" alt="student_uniform_system_architecture_diagram" src="https://github.com/user-attachments/assets/600d8c58-2197-418f-af3e-1e4c6fe92a99" />
+
 ## 🏗️ Architecture
 
 ```
